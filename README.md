@@ -12,4 +12,4 @@ The rubric contains the following two questions:
 2. Does the web page feature an interactive map that appears to have been created with Leaflet?  
 
 ## Example Submissions
-(Here's)[http://seankross.neocities.org/week2.html] an extremely minimal passing example, but we hope your submission is much cooler!
+[Here's](http://seankross.neocities.org/week2.html) an extremely minimal passing example, but we hope your submission is much cooler!
