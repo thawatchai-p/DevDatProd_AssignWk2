@@ -2,7 +2,9 @@
 title: "Developing Data Products Assignment: R Markdown and Leaflet"
 author: "Thawatchai Phakwithoonchai"
 date: "3/1/2020"
-output: html_document
+output: 
+md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
